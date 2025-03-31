@@ -14,22 +14,6 @@ This project aims to predict equipment failures using historical sensor data. By
 - Python 3.8+
 - pip
 
-### Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/equipment-failure-prediction.git
-   cd equipment-failure-prediction
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ensure the dataset is available in `data/sensor_data.csv`.
-4. Train the model:
-   ```bash
-   python src/train_model.py
-   ```
-
 ## Usage
 ### Predict Equipment Failure
 Start the Flask API:
